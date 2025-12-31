@@ -1,0 +1,8 @@
+{
+  "name": "Copy of ViralGrowth AI",
+  "description": "The world's first fully autonomous AI YouTube growth engine. Connects to your channel, detects trends, generates 100% AI content, and publishes automatically.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
